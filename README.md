@@ -78,6 +78,6 @@ Currently, this project includes a simple (fake) login system using localStorage
 
 ## Stay in touch
 
-- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
-- Medium - [baguilar6174](https://baguilar6174.medium.com/)
-- LinkedIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
+- Website - [devnabibia](https://portfolio-devnabibia.vercel.app/)
+- Medium - [devnabibia](https://medium.com/@devnabibia)
+- Twitter - [devnabibia](https://www.linkedin.com/in/baguilar6174)
