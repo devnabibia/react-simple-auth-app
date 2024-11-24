@@ -80,4 +80,4 @@ Currently, this project includes a simple (fake) login system using localStorage
 
 - Website - [devnabibia](https://portfolio-devnabibia.vercel.app/)
 - Medium - [devnabibia](https://medium.com/@devnabibia)
-- Twitter - [devnabibia](https://www.linkedin.com/in/baguilar6174)
+- Twitter - [devnabibia](https://x.com/devnabibia)
